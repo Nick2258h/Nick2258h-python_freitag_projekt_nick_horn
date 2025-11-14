@@ -1,0 +1,3 @@
+hallo:hello
+du:you
+ich:me
